@@ -1,0 +1,23 @@
+.each-history {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+button {
+  background-color: transparent;
+  border: none;
+  margin-left: auto;
+  cursor: pointer;
+}
+
+.app-logo {
+  margin-left: 20px;
+  margin-right: 15px;
+}
+p {
+  font-size: 20px;
+}
+li {
+  list-style-type: none;
+  margin-left: 0px;
+}
